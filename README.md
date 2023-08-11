@@ -11,7 +11,7 @@ https://juansouzamd.github.io/pokedex/
 * JavaScript
 * API
 
-### Gif da página completa:
+### Imagem da página completa:
 
 <p align='center'> <img src='https://github.com/juansouzamd/pokedex/blob/main/img/pokedex-principal.png?raw=true'/></p>
 
